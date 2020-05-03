@@ -1,5 +1,6 @@
 body{
     background-color: whitesmoke;
+    scroll-margin-left: 0.5em;
 }
 
 #contact{
@@ -37,7 +38,6 @@ body{
 .head{
     margin-left: 1em;
     margin-top: 2em;
-    
 }
 
 .p{
@@ -46,9 +46,11 @@ body{
 }
 
 #box{
-    
     margin-top: 2em;
+    margin-bottom: 1em;
 }
+
+
 
 
 .bs{
