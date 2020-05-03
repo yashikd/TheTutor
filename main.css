@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
+
+#contact{
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+#header{
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 30px;
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+}
+
+#footer{
+    padding-top: 10em;
+    color: gold;
+    background-color: black;
+    padding: 0.5em;
+    margin-bottom: -0.1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+#service{
+    padding-left: 3em;
+    padding-top: 3em;
+}
+
+#word{
+    margin-left: 3em;
+}
+
+.head{
+    margin-left: 1em;
+    margin-top: 2em;
+    
+}
+
+.p{
+    margin-left: 6em;
+    padding-bottom: 4em;
+}
+
+#box{
+    margin-left: 41.27%;
+    margin-top: 2em;
+}
+
+
+.bs{
+    padding-left: 20em;
+    padding-right: 20em;
+}
